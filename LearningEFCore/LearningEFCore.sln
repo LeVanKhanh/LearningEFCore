@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningEFCore", "LearningEFCore\LearningEFCore.csproj", "{26662839-0248-4DDD-B666-471CCD3F147D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26662839-0248-4DDD-B666-471CCD3F147D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26662839-0248-4DDD-B666-471CCD3F147D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26662839-0248-4DDD-B666-471CCD3F147D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26662839-0248-4DDD-B666-471CCD3F147D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4750B55A-774F-42C2-B0D9-199195A33370}
+	EndGlobalSection
+EndGlobal
